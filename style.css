@@ -1,0 +1,10 @@
+.tab{
+    background-color: blue;
+    height: 30px;
+    width: 50%;
+    margin-left: 100%;
+}
+body{
+    background: url('21bbae060.png');
+    background-size:cover;
+}
